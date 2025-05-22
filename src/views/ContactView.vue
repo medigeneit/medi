@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <main class="min-h-screen bg-white text-gray-800">
+  <main class="min-h-screen text-gray-800">
     <!-- Contact Hero Section -->
     <section class="bg-blue-100 py-24 text-center">
       <div class="max-w-4xl mx-auto px-4">
@@ -60,11 +60,13 @@
     </section>
 
     <!-- Contact Info Section -->
-    <section class="bg-gray-50 py-12 px-4">
+    <section class="bg-blue-100 py-12 px-4">
       <div class="max-w-4xl mx-auto text-center">
-        <p class="text-gray-700 text-lg mb-2">Email: contact@medi.org</p>
-        <p class="text-gray-700 text-lg mb-2">Phone: +880-123-456-789</p>
-        <p class="text-gray-700 text-lg">Address: 123 MEDI Avenue, Dhaka, Bangladesh</p>
+        <p class="text-gray-700 text-lg mb-2">Email: office@medi.academy</p>
+        <p class="text-gray-700 text-lg mb-2">Phone: +880-1759-584-836</p>
+        <p class="text-gray-700 text-lg">
+          Address: 230 Rajmonjil, Elephant Road, Dhaka-1205, Bangladesh
+        </p>
       </div>
     </section>
   </main>
